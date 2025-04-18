@@ -17,6 +17,8 @@ _(Screenshots from the app)_
   ![L](https://github.com/user-attachments/assets/dc570d15-ea53-451f-93e5-64a53d47954b)
 ![I](https://github.com/user-attachments/assets/ce11d7d6-d2c7-45c1-b8ec-f39064005321)
 
+![r](https://github.com/user-attachments/assets/414a8a7e-15cc-4694-b2aa-13bbbbf9df93)
+
 - **Match Page**: animated match reveal 🎉  
 ![h](https://github.com/user-attachments/assets/6905ee47-8ecf-4600-ae6b-eb8a8305cf64)
 
