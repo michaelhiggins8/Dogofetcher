@@ -1,0 +1,130 @@
+.log-in-card{
+
+
+    width:50%;
+    height: 100%;
+    
+
+
+}
+
+
+
+
+.top-row{
+
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.top-row button{
+
+    background-color: white;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    box-shadow: 0px 0px 2px;
+    width: 5vw;
+    border-radius: 0.5em;
+
+
+
+
+}
+
+
+
+.top-row button:hover{
+    
+
+    background-color: bisque;
+    
+    }
+    
+
+.headr-row{
+
+
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: 10vh;
+
+
+}
+
+.headr-row h1{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.headr-row p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color:gray;
+
+}
+
+
+.input-row{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+.input-row input{
+
+
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 100;
+width: 25%;
+margin-bottom: 2vh;
+height: 2vh;
+
+
+}
+
+
+.input-row button{
+
+    background-color: white;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0;
+    box-shadow: 0px 0px 2px;
+    cursor: pointer;
+    border-radius: 0.2em;
+    width: 25%;
+    height: 4vh;
+
+
+}
+
+
+.input-row button:hover{
+
+background-color: bisque;
+
+}
+
+
+.mesg-row{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color: gray;
+
+
+}

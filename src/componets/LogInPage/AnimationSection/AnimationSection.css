@@ -1,0 +1,38 @@
+.animation-section{
+
+
+
+
+height: 100%;
+position: relative;  
+width: 70vw;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+
+.lottie-bw-dog-man{
+
+    position: absolute; 
+    right: 0;
+    height: 100%;
+    z-index: -1; 
+}
+
+
+.lottie-bw-dog-man-btn{
+    position: absolute; 
+    z-index: 1; 
+    right: 1;
+
+
+
+
+
+
+
+
+}

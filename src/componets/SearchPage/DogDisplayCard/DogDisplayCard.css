@@ -1,0 +1,68 @@
+.dog-display-card{
+
+
+
+width: 20vw;
+height: 35vh;
+
+margin-bottom: 10vh;
+overflow-y: scroll;
+border-radius: 1vw;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+border:0;
+box-shadow: 0px 0px 5px;
+cursor: pointer;
+
+
+
+
+}
+
+.dog-display-card img{
+    max-height: 100%;
+
+    object-fit: cover;
+    width: 100%;
+    height: 50%;
+    border-bottom-left-radius: 0.5vw;
+    border-bottom-right-radius: 0.5vw;
+
+
+
+
+}
+
+
+
+
+.dog-display-card h1{
+
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+
+
+.age-breed-row{
+
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    align-items: center;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+
+}
+
+
+.zip-display{
+
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
