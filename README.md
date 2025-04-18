@@ -26,7 +26,7 @@ _(Screenshots from the app)_
 
 ## 🚀 Live Demo
 
-👉 [Visit the live site](https://tbd.com)  
+👉 [Visit the live site](http://dogofetcher.s3-website-us-west-1.amazonaws.com/)  
 
 
 ---
